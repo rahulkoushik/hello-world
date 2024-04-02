@@ -7,11 +7,12 @@
     <input type="radio" name="sex" id="female" value="female">
     <label for="female">Female</label> <br><br>
     <label for="country">Country: </label>
+    <br>
     <select name="country" id="country">
-        <option>Select an option</option>
-        <option value="nepal">Nepal</option>
-        <option value="usa">USA</option>
-        <option value="australia">Australia</option>
+    <option>Select an option</option>
+    <option value="nepal">Nepal</option>
+    <option value="usa">USA</option>
+    <option value="australia">Australia</option>
     </select><br><br>
     <label for="message">Message:</label><br>
     <textarea name="message" id="message" cols="30" rows="4"></textarea><br><br>
